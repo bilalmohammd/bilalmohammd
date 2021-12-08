@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bilalmohammd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning COMPITATIVE PROGRAMMING WEB DOVLOPMENT WITH REACT NODE JS
+- 👀 I’m interested in COMPITATIVE PROGRAMMING
+- 🌱 I’m currently learning  WEB DOVLOPMENT WITH REACT NODE JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me EMAIL-: bilalmohammad11100@gmail.com
 
